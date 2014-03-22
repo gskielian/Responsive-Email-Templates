@@ -19,4 +19,4 @@ Find the original template from the Zurb Foundation website http://zurb.com/ink/
 Below are additional examples for general use which demonstrate how to develop responsive emails with Zurb Ink:
 
 
-[!img1]
+[!img](hero_01_water_conservation.png)
