@@ -18,8 +18,16 @@ Find the original template from the Zurb Foundation website http://zurb.com/ink/
 
 Below are additional examples for general use which demonstrate how to develop responsive emails with Zurb Ink:
 
-### Simple, Extensible Header and Image template 
 
+<table>
+  <tr>
+  <td>
+<h4>Simple, Extensible Header and Image template</h4>
+<p align="center">
 <img src="hero_01_water_conservation.png" alt="first image" width="100px"/>
-
-Just copy and paste tables to add additional topics.
+</p>
+<br>
+<em>Just copy and paste tables to add additional topics.</em>
+</td>
+</tr>
+</table>
