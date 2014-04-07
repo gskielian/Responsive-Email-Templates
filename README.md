@@ -30,4 +30,15 @@ Below are additional examples for general use which demonstrate how to develop r
 <em>Just copy and paste tables to add additional topics.</em>
 </td>
 </tr>
+  <tr>
+  <td>
+<h4>Template for Project Proposals With Contact Info</h4>
+<p align="center">
+<img src="proposal_1.png" alt="first image" width="100px"/>
+<img src="proposal_2.png" alt="first image" width="100px"/>
+</p>
+<br>
+<em>Just copy and paste tables to add additional topics.</em>
+</td>
+</tr>
 </table>
