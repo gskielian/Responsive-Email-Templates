@@ -35,6 +35,7 @@ Below are additional examples for general use which demonstrate how to develop r
 <h4>Template for Project Proposals With Contact Info</h4>
 <p align="center">
 <img src="proposal_1.png" alt="first image" width="100px"/>
+</br>
 <img src="proposal_2.png" alt="first image" width="100px"/>
 </p>
 <br>
